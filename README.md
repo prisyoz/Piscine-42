@@ -10,7 +10,11 @@ How about the person behind you?<br>
 Or the person in front of you?<br>
 If all else fails, there's always Google.<br>
 Lastly, **RTFM**!! <br>
-
 <br>
 <br>
 Some of the exercises posted were completed during the Piscine, while others are in progress as I continue to work through the remaining exercises from the bootcamp.
+
+**Subjects**
+C00
+C01
+C02 - missing ex12
