@@ -14,7 +14,7 @@ Lastly, **RTFM**!! <br>
 <br>
 Some of the exercises posted were completed during the Piscine, while others are in progress as I continue to work through the remaining exercises from the bootcamp.
 
-**Subjects**
-C00
-C01
-C02 - missing ex12
+**Subjects**<br>
+C00<br>
+C01<br>
+C02 - missing ex12<br>
