@@ -16,7 +16,7 @@ int	ft_str_is_lowercase(char	*str)
 }
 
 
-#include <stdio.h>
+/* #include <stdio.h>
  
 int main()
 {
@@ -25,4 +25,4 @@ int main()
     printf("3: 0 %d\n", ft_str_is_lowercase("123hellow"));
     printf("4: 1 %d\n", ft_str_is_lowercase(""));
     printf("5: 0 %d\n", ft_str_is_lowercase("1234!@"));
-}
+} */

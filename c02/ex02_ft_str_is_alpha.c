@@ -16,7 +16,7 @@ int	ft_str_is_alpha(char	*str)
 	return (1);
 }
 
-#include <stdio.h>
+/* #include <stdio.h>
 
 int main()
 {
@@ -24,4 +24,4 @@ int main()
     printf("2: 1 %d\n", ft_str_is_alpha("heya"));
     printf("3: 0 %d\n", ft_str_is_alpha("123helLow"));
     printf("4: 1 %d\n", ft_str_is_alpha(""));
-}
+} */

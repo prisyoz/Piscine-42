@@ -15,7 +15,7 @@ int	ft_str_is_uppercase(char	*str)
 	return (1);
 }
 
-#incl/* ude <stdio.h>
+/* #include <stdio.h>
 
 int main()
 {

@@ -16,7 +16,7 @@ int	ft_str_is_numeric(char	*str)
 }
 
 
-/* nclude <stdio.h>
+/* include <stdio.h>
 
 int main()
 {
