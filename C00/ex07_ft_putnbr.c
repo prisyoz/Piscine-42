@@ -30,7 +30,7 @@ void	ft_putnbr(int nb)
 
 
 
-#include <stdio.h>
+/* #include <stdio.h>
 
 int main(void)
 {
@@ -38,4 +38,4 @@ int main(void)
 	write(1, "\n", 1);
 	ft_putnbr(-520);
 	write(1, "\n", 1);
-}
+} */

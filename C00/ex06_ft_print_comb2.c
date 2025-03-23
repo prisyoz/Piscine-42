@@ -42,3 +42,7 @@ void	ft_putchar(int a, int b)
 	write(1, &b_ones, 1);
 }
 
+/* int	main(void)
+{
+	ft_print_comb2();
+} */
