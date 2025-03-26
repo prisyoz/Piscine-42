@@ -4,7 +4,7 @@ In this project we will review some functions already done and learn about the c
 
 
 ## Final grade: 75%
-All exercises have passed Moulinette, except ex04 and ex05. Ex04 was done after the Piscine.
+All exercises have passed Moulinette, except ex04 and ex05. Ex04 and ex05 was done after the Piscine.
 
 | Project | Validation | Done |
 |:----:|:------------------:| :----: |
