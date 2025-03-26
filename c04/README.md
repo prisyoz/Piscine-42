@@ -13,4 +13,4 @@ All exercises have passed Moulinette, except ex04 and ex05. Ex04 was done after 
 | ex02 | :ok: | :heavy_check_mark: |
 | ex03 | :ok: | :heavy_check_mark: |
 | ex04 | Nothing turned in | :heavy_check_mark: |
-| ex05 | Nothing turned in |  |
+| ex05 | Nothing turned in | :heavy_check_mark: |
