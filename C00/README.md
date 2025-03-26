@@ -15,5 +15,5 @@ All exercises have passed Moulinette, except ex07 and ex08. Ex07 and ex08 were d
 | ex04 | :heavy_check_mark: | :heavy_check_mark: |
 | ex05 | :heavy_check_mark: | :heavy_check_mark: |
 | ex06 | :heavy_check_mark: | :heavy_check_mark: |
-| ex07 | :x: | :heavy_check_mark: |
-| ex08 | :x: | :heavy_check_mark: |
+| ex07 | Nothing turned in | :heavy_check_mark: |
+| ex08 | Nothing turned in | :heavy_check_mark: |
