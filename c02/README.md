@@ -20,4 +20,4 @@ All exercises have passed Moulinette, except ex11 and ex12. Ex11 and ex12 were d
 | ex09 | :ok: | :heavy_check_mark: |
 | ex10 | :ok: | :heavy_check_mark: |
 | ex11 | KO | :heavy_check_mark: |
-| ex12 | :x: |  |
+| ex12 | Nothing turned in |  |
