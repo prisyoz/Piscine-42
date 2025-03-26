@@ -1,6 +1,8 @@
 # Piscine-42
 C 42 subjects
 
+The purpose of this repository is to consolidate my knowledge about the subjects that was learnt during the Piscine.
+
 Piscine 42 is a 26-day selection bootcamp for the common core at 42 school. It focuses on mastering C programming, algorithms, and problem-solving through hands-on, project-based learning in a peer-driven environment.
 
 Always trust yourself to figure out the questions first. <br>
@@ -12,9 +14,14 @@ If all else fails, there's always Google.<br>
 Lastly, **RTFM**!! <br>
 <br>
 <br>
-Some of the exercises posted were completed during the Piscine, while others are in progress as I continue to work through the remaining exercises from the bootcamp.
+Some of the exercises posted were completed during the Piscine, while others are in progress as I continue to work through the remaining exercises from the Piscine.
 
-**Subjects**<br>
-C00<br>
-C01<br>
-C02 - missing ex12<br>
+# Projects Status
+
+| Project | Final grade | All done |
+|:-------:|:-----:|:------:|
+| [C00]| 100% | :heavy_check_mark: |
+| [C01]| 100% | :heavy_check_mark: |
+| [C02]| 85% | :heavy_check_mark: |
+| [C03]| 100% | :heavy_check_mark: |
+| [C04]| 80% | :heavy_check_mark: |
