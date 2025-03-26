@@ -24,4 +24,5 @@ Some of the exercises posted were completed during the Piscine, while others are
 | [C01]| 100% | :heavy_check_mark: |
 | [C02]| 85% | pending ex12 |
 | [C03]| 100% | :heavy_check_mark: |
-| [C04]| 80% | pending ex05 |
+| [C04]| 80% | :heavy_check_mark: |
+| [C05]| 50% | pending ex08 |
