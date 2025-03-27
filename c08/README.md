@@ -13,8 +13,8 @@ All exercises have passed Moulinette, except ex02 and ex04.
 |:----:|:------------------:| :----: |
 | ex00 | :ok: | :heavy_check_mark: |
 | ex01 | :ok: | :heavy_check_mark: |
-| ex02 | KO |  |
+| ex02 | Cannot compile | :heavy_check_mark: |
 | ex03 | :ok: | :heavy_check_mark: |
-| ex04 | KO |  |
+| ex04 | KO | :heavy_check_mark: |
 | ex05 | :ok: | :heavy_check_mark: |
 

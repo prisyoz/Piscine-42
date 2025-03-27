@@ -62,11 +62,11 @@ struct	s_stock_str	*ft_strs_to_tab(int ac, char **av)
 		if (!arr[count].copy)
 		{
 			ft_free(arr, count -1);
-			free(arr);
 			return (NULL);
 		}
 		count++;
 	}
+	arr[count].size = 0;
 	arr[count].str = NULL;
 	arr[count].copy = NULL;
 	return (arr);
