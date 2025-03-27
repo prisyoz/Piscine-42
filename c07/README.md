@@ -1,6 +1,6 @@
 # C07
 
-In this project we will learn how to use memory allocation. We will also learn how to use functions that are in other files. All exercises are commented for a better understanding. All main functions have been commented out as per the given instructions.
+In this project we will learn how to use memory allocation. We will also learn how to use functions that are in other files.  All main functions have been commented out as per the given instructions.
 
 Subjects:<br>
 * malloc
