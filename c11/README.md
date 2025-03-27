@@ -10,7 +10,7 @@ Exercises were done after the Piscine.
 |:----:|:------------------:| 
 | ex00 | :heavy_check_mark: | 
 | ex01 | :heavy_check_mark: | 
-| ex02 | :heavy_check_mark: | 
+| ex02 |  | 
 | ex03 |  | 
 | ex04 |  | 
 | ex05 |  | 
