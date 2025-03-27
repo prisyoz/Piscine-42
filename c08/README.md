@@ -1,4 +1,4 @@
-# C07
+# C08
 
 In this project we will learn how to work with the 'header' files. We will also learn how to use the structs.
 
