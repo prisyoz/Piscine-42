@@ -6,7 +6,7 @@ In this project we will learn how to work with functions passed through the para
 ## Final grade: :X:
 Exercises were done after the Piscine.
 
-| Project | Validation | 
+| Project | Done | 
 |:----:|:------------------:| 
 | ex00 | :heavy_check_mark: | 
 | ex01 | :heavy_check_mark: | 
