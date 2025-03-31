@@ -4,7 +4,7 @@ In this project we will learn how to work with functions passed through the para
 
 
 ## Final grade: :X:
-Exercises were done after the Piscine.
+Exercises were done after the Piscine. (2025/03/31)
 
 | Project | Done | 
 |:----:|:------------------:| 
@@ -13,6 +13,6 @@ Exercises were done after the Piscine.
 | ex02 | :heavy_check_mark: | 
 | ex03 | :heavy_check_mark: | 
 | ex04 | :heavy_check_mark: | 
-| ex05 |  | 
-| ex06 |  | 
-| ex07 |  | 
+| ex05 | :heavy_check_mark: | 
+| ex06 | :heavy_check_mark: | 
+| ex07 | :heavy_check_mark: | 
