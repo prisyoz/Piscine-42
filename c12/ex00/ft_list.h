@@ -4,10 +4,10 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-typedef struct Node
+typedef struct s_list
 {
-	void	*data;
-	struct Node *next;
+	struct s_list	*next;
+	void			*data;
 } t_list;
 
 t_list *ft_create_elem(void *data);

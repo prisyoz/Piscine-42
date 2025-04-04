@@ -4,10 +4,10 @@
 #include <stdlib.h>
 //#include <stdio.h>
 
-typedef struct Node
+typedef struct s_list
 {
-	void	*data;
-	struct Node	*next;
+	struct s_list	*next;
+	void			*data;
 } t_list;
 
 int	ft_list_size(t_list *begin_list);

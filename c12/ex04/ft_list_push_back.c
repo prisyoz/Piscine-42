@@ -10,10 +10,10 @@ t_list	*ft_create_elem(void *data)
 	if (!new_elem)
 		return NULL;
 
-		new_elem->data = data;
-		new_elem->next = NULL;
+	new_elem->data = data;
+	new_elem->next = NULL;
 
-		return (new_elem);
+	return (new_elem);
 }
 
 void	ft_list_push_back(t_list **begin_list, void *data)
@@ -25,7 +25,7 @@ void	ft_list_push_back(t_list **begin_list, void *data)
 
 	if (*begin_list == NULL)
 	{
-		*begin_list = new_eleml-;
+		*begin_list = new_elem;
 	}
 	else
 	{
