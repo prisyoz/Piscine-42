@@ -32,7 +32,7 @@ Some of the exercises posted were completed during the Piscine, while others are
 | [C09]| 100% | :heavy_check_mark: |
 | [C10]| :x: |  |
 | [C11]| :x: | :heavy_check_mark: |
-| [C12]| :x: |  |
+| [C12]| :x: | pending ex05-ex12 |
 | [C13]| :x: |  |
 | rush00 | submitted | :heavy_check_mark: |
 | rush01 | submitted | :heavy_check_mark: |
